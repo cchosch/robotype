@@ -1,4 +1,6 @@
 # robotype
+[![wakatime](https://wakatime.com/badge/user/82cdae6a-ce3c-4063-8986-f4c5ae89b50d/project/7c469747-6cd9-44e3-9cfe-b1c3c647ca04.svg)](https://wakatime.com/badge/user/82cdae6a-ce3c-4063-8986-f4c5ae89b50d/project/7c469747-6cd9-44e3-9cfe-b1c3c647ca04)
+
 Type out a string of characters and get a JSON object with data about your typing speed back. This is meant to allow bots to scrape
 sites and pass captchas on input fields.
 
